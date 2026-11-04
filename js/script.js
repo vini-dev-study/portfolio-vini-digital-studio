@@ -34,5 +34,5 @@ document.addEventListener("DOMContentLoaded", function () {
             });
         });
     }
-    console.log("Vini Digital Studio is running!")
+    console.log("Vini Digital Studio")
 });
